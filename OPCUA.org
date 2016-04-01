@@ -5,3 +5,10 @@
 ** 2.下载KEPServerEx5安装文件
 CSDN上也有[[http://download.csdn.net/detail/yinxing408033943/5466453][下载]], 没有授权，但仿真足够了。
 
+** 3.安装和配置KEPServerEx5
+*** 配置步骤
+    1)New Chennel
+[[./图片/1.bmp]]
+
+
+
