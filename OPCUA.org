@@ -1,0 +1,7 @@
+* 西门子OPC UA客户端与KEPServer连接仿真测试
+** 1.下载西门子OPCUA客户端，
+该客户端是C#编写，是西门子用来和其SIMATIC NET OPC UA Server连接测试用的，带有源码，学习的好资料；
+ 可以去西门子网站上免费下载，也可以在CSDN上[[download.csdn.net/detail/madison_wang/9478879][下载]];
+** 2.下载KEPServerEx5安装文件
+CSDN上也有[[http://download.csdn.net/detail/yinxing408033943/5466453][下载]], 没有授权，但仿真足够了。
+
